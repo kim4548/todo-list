@@ -38,6 +38,7 @@ li{
   padding-bottom: 15px;
   width: 200px;
   text-align: center;
+  color: rgb(19, 16, 16);
 }
 .completed{
   text-decoration: line-through;
