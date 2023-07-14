@@ -15,9 +15,9 @@ border-radius: 10px;
 ul{
   color: black;
   text-decoration-color: brown;
-  padding-left: 500px;
-  display: flex;
-  flex-direction: column;
+ padding-left: 45%;
+ 
+ 
 }
 
 h1{
@@ -36,7 +36,7 @@ input{
 
 li{
   padding-bottom: 15px;
-  width: 50%;
+  width: 200px;
   text-align: center;
 }
 .completed{
